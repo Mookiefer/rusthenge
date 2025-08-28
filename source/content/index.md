@@ -1,7 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: My GitHub Pages Rusthenge Notebook!
 ---
 
-Hello world!
-
-Write some words here!
+Hello pathfinders!
