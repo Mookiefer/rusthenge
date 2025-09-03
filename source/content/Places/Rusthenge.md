@@ -1,3 +1,3 @@
-Ruins located on a small island near [[Iron Harbor]].
+Ruins located on Thunderhead Isle near [[Iron Harbor]].
 
 It existed before the village was founded.

@@ -1,4 +1,4 @@
-Region in Western [[New Thassilon]], on Chakikoth Isle.
+Region in New Thassilon, on Chakikoth Isle.
 Ruler is Runelord Queen Belimarius.
 
 #### Villages

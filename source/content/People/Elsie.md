@@ -1,3 +1,4 @@
 Runs a shop and tavern in [[Iron Harbor]].
+Good source of food and some potions.
 
-Requests aid from the party to get the [[New Thassilon]] ship to leave the village.
+Requested aid from the party to get the Thassilonian ship to leave the village.
