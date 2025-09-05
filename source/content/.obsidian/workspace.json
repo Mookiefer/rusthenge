@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "People/Janis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Janis"
             }
           }
         ]
@@ -180,8 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "index.md",
     "Things/The Rust Creep.md",
     "Things/Thassilonian Ship Logs.md",
     "Things",
@@ -201,14 +202,13 @@
     "People/Players",
     "People/Lord Ragnulf.md",
     "People/Lord Meitremar.md",
-    "People/Janice.md",
+    "People/Janis.md",
     "People/Fallen Acolytes.md",
     "People/Elsie.md",
     "People/Elder Ordwi.md",
     "People",
     "category-folder/Some note.md",
     "category-folder/index.md",
-    "index.md",
     "category-folder"
   ]
 }
